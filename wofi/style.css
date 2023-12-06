@@ -1,0 +1,31 @@
+* {
+	border-radius: 3px;
+	border: none;
+}
+
+window {
+	font-size: 16px;
+	font-family: hack;
+	background-color: rgba(26, 26, 26, 0.9);
+	color: white;
+	border-bottom: 3px solid white;
+}
+
+entry {
+	padding: 0.25em;
+}
+
+#entry:selected {
+	background-color: #088576;
+	background: linear-gradient(90deg, #4dfed1, #088576);
+}
+
+#text:selected {
+	color: #1a1a1a;
+}
+
+#input {
+	background-color: rgba(26, 26, 26, 0.5);
+	color: white;
+	padding: 0.25em;
+}
