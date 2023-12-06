@@ -1,8 +1,7 @@
-# Default config for sway
-#
-# Copy this to ~/.config/sway/config and edit it to your liking.
-#
-# Read `man 5 sway` for a complete reference.
+# CONFIG BY u/xPedalitto (https://github.com/adamperkowski)
+
+
+
 
 font pango: hack Medium 11
 
