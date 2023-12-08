@@ -2,7 +2,7 @@
 
 ## Preview:
 ![preview 0](https://i.redd.it/eztzly878q4c1.png)
-![preview 1](https://preview.redd.it/wkm9y18l4z4c1.png)
+![preview 1](https://i.redd.it/wkm9y18l4z4c1.png)
 
 ## Requirements (kinda):
 + [foot](https://archlinux.org/packages/extra/x86_64/foot/) terminal
