@@ -6,7 +6,7 @@
 max-visible=3
 
 font=Iosevka
-background-color=#08857610
+background-color=#1a1a1a50
 border-color=#1a1a1a75
 border-radius=3
 default-timeout=10000
