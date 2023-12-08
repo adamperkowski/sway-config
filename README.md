@@ -1,7 +1,8 @@
 # My .config files for SwayWM
 
 ## Preview:
-![preview](https://i.redd.it/eztzly878q4c1.png)
+![preview 0](https://i.redd.it/eztzly878q4c1.png)
+![preview 1](https://preview.redd.it/wkm9y18l4z4c1.png)
 
 ## Requirements (kinda):
 + [foot](https://archlinux.org/packages/extra/x86_64/foot/) terminal
@@ -11,6 +12,9 @@
 + [sway](https://swaywm.org/) window manager
 + [waybar](https://github.com/Alexays/Waybar)
 + [wofi](https://archlinux.org/packages/extra/x86_64/wofi/) launcher
++ [neovim](https://neovim.io/)
++ [vim-plug](https://github.com/junegunn/vim-plug)
++ [startify](https://github.com/mhinz/vim-startify) vim plugin
 
 Arch Linux
 <br><br>
