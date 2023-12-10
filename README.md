@@ -1,6 +1,7 @@
 # My .config files for SwayWM
 
 **⚠️ REMEMBER TO CHANGE PATH TO YOUR WALLPAPER IN [sway config](https://github.com/adamperkowski/sway-config/blob/main/sway%2Fconfig) ⚠️**
+
 Wallpaper on previews: [Arch Linux Neon Street](https://store.kde.org/p/2100017)
 
 ## Preview:
