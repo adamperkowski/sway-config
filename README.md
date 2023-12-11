@@ -20,6 +20,7 @@ Wallpaper on previews: [Arch Linux Neon Street](https://store.kde.org/p/2100017)
 + [vim-plug](https://github.com/junegunn/vim-plug)
 + [startify](https://github.com/mhinz/vim-startify) vim plugin
 + [vscode](https://aur.archlinux.org/packages/visual-studio-code-bin)
++ [Nerd Fonts](https://archlinux.org/packages/extra/any/ttf-nerd-fonts-symbols/)
 
 Arch Linux
 <br><br>

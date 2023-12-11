@@ -9,10 +9,12 @@ gaps inner 6px
 gaps outer 6px
 
 default_border pixel 0
+default_floating_border pixel 0
+client.focused #000000 #088576 #ffffff
 
-for_window [app_id="code-oss"] fullscreen enable
+for_window [class="Code"] fullscreen enable
 
-assign [app_id="code-oss"] 10
+assign [class="Code"] 10
 assign [app_id="Slack"] 9
 
 ### Variables
