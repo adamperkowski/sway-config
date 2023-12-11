@@ -77,6 +77,10 @@ output * bg /home/adam/.wallpapers/linux-neon-street-arch.jpg fill
 #
     bindsym XF86MonBrightnessDown exec brightnessctl set 10%-
     bindsym XF86MonBrightnessUp exec brightnessctl set +10%
+    
+    bindsym XF86AudioMute exec amixer set Master toggle
+    bindsym XF86AudioRaiseVolume exec amixer set Master 10%+
+    bindsym XF86AudioLowerVolume exec amixer set Master 10%-
 
     # Start a terminal
     bindsym $mod+Return exec $term
