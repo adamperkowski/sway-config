@@ -222,5 +222,7 @@ exec wlclock --corner-radius 3px --layer bottom --no-input --position top-right 
 exec mako
 exec slack
 
+exec foot /home/adam/scripts/update.sh
+
 include /etc/sway/config.d/*
 
