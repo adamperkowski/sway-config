@@ -1,0 +1,25 @@
+{
+    "workbench.colorTheme": "Default Dark Modern",
+    "workbench.colorCustomizations": {
+        "activityBar.foreground": "#4dfed1",
+        "activityBar.inactiveForeground": "#088576",
+        "tab.activeBorderTop": "#4dfed1",
+        "button.background": "#088576",
+        "button.hoverBackground": "#4dfed1",
+        "button.foreground": "#1a1a1a",
+        "focusBorder": "#088576",
+        "textLink.foreground": "#088576",
+        "textLink.activeForeground": "#4dfed1",
+        "activityBar.activeBorder": "#088576",
+        "statusBarItem.remoteBackground": "#4dfed1",
+        "statusBarItem.remoteForeground": "#1a1a1a",
+        "statusBar.debuggingBackground": "#088576",
+        "statusBar.debuggingForeground": "#1a1a1a",
+        "panelTitle.activeBorder": "#4dfed1"
+    },
+    "editor.fontFamily": "'Hack', 'monospace', monospace",
+    "git.confirmSync": false,
+    "git.autofetch": true,
+    "git.enableSmartCommit": true,
+    "window.menuBarVisibility": "toggle"
+}
