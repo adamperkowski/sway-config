@@ -5,9 +5,8 @@
 Wallpaper on previews: [Arch Linux Neon Street](https://store.kde.org/p/2100017)
 
 ## Preview:
-![preview 2](https://i.redd.it/pxne7rpplp5c1.png)
-![preview 0](https://i.redd.it/eztzly878q4c1.png)
-![preview 1](https://i.redd.it/wkm9y18l4z4c1.png)
+![preview](https://i.redd.it/90fnh2u19f7c1.png)
+more on [Reddit](https://www.reddit.com/user/xPedalitto)
 
 ## Requirements (kinda):
 + [foot](https://archlinux.org/packages/extra/x86_64/foot/) terminal
