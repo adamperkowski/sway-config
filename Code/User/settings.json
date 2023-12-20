@@ -21,5 +21,7 @@
     "git.confirmSync": false,
     "git.autofetch": true,
     "git.enableSmartCommit": true,
-    "window.menuBarVisibility": "toggle"
+    "window.menuBarVisibility": "toggle",
+    "glassit.force_sway": true,
+    "glassit.alpha": 245
 }
